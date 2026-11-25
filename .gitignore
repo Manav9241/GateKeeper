@@ -1,0 +1,13 @@
+# IntelliJ project settings (machine-specific)
+.idea/
+*.iml
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Secrets (passwords, keys) - never commit
+.env
+
+# Log files
+*.log
